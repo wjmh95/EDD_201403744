@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512955759 source:c:\users\william\desktop\u\estructura datos\taller c\edd_tarea1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1512952264 c:\users\william\desktop\u\estructura datos\taller c\edd_tarea1\libreria.h
+
